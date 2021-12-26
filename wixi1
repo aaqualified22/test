@@ -1,1 +1,5 @@
-{"title":"March","dataSet1":320},{"title":"February","dataSet1":120},{"title":"January","dataSet1":100}
+[
+   ["Dataset 1", "Dataset 2", "Dataset 3"],
+   [100,200,300],
+   [120,170,320]
+]
